@@ -1,0 +1,16 @@
+<templateSet group="JavaScript">
+  <template name="cl" value="console.log('$first$ :',$param$);$END$" toReformat="false" toShortenFQNames="true">
+    <variable name="first" expression="clipboard()" defaultValue="" alwaysStopAt="false" />
+    <variable name="param" expression="clipboard()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="cc" value="console.log('$END$');" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>

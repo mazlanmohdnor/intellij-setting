@@ -1,0 +1,10 @@
+<application>
+  <component name="ConsoleFoldingSettings">
+    <option name="addedPositive">
+      <list>
+        <option value="2018-08-06 13:31:17.636 DEBUG 50980 --- [nnection closer] com.zaxxer.hikari.pool.PoolBase          : applicationLocalPool - Closing connection com.mysql.jdbc.JDBC4Connection@35ef457d: (connection has passed maxLifetime)" />
+        <option value="2018-08-06 13:31:47.886 DEBUG 50980 --- [onnection adder] com.zaxxer.hikari.pool.HikariPool        : applicationLocalPool - Added connection com.mysql.jdbc.JDBC4Connection@2bea138f" />
+      </list>
+    </option>
+  </component>
+</application>

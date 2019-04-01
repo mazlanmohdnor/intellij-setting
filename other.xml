@@ -1,0 +1,300 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Ant</id>
+          </State>
+          <State>
+            <id>Application Servers</id>
+          </State>
+          <State>
+            <id>Control flow issuesJava</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>Declaration redundancyJava</id>
+          </State>
+          <State>
+            <id>Faces Model</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>Hibernate</id>
+          </State>
+          <State>
+            <id>IconsUsabilityLintAndroid</id>
+          </State>
+          <State>
+            <id>InitializationJava</id>
+          </State>
+          <State>
+            <id>InternationalizationJava</id>
+          </State>
+          <State>
+            <id>JBoss Seam</id>
+          </State>
+          <State>
+            <id>JPA</id>
+          </State>
+          <State>
+            <id>JSON and JSON5</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java EE</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript validity issuesJavaScript</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>Maven</id>
+          </State>
+          <State>
+            <id>Plugin DevKit</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>Properties Files</id>
+          </State>
+          <State>
+            <id>RegExp</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+          <State>
+            <id>Struts</id>
+          </State>
+          <State>
+            <id>Struts 1Struts</id>
+          </State>
+          <State>
+            <id>TestNGJava</id>
+          </State>
+          <State>
+            <id>UI Form</id>
+          </State>
+          <State>
+            <id>UsabilityLintAndroid</id>
+          </State>
+          <State>
+            <id>Validity issuesGroovy</id>
+          </State>
+          <State>
+            <id>XML</id>
+          </State>
+          <State>
+            <id>XMLSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>XSLT</id>
+          </State>
+          <State>
+            <id>YAML</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Duplicates</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="CodeStyleSchemesUIConfiguration">
+    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:$USER_HOME$/Desktop/Project.xml" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe">
+      <version-cache version="10.15.0" last-modified="1545776960000" />
+    </local-interpreter>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="AFTER.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="0" />
+    <property name="AFTER.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="true" />
+    <property name="AFTER.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_STATUS_BAR" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="1" />
+    <property name="BEFORE.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_STATUS_BAR" value="true" />
+    <property name="COMMITTED_CHANGES_FILTER_HISTORY" value="pjk" />
+    <property name="ColorChooser.RecentColors" value="55-153-223-255,,,57-172-250-114,,,77-109-113-114,,,51-72-76-114,,,234-68-79-114,,,246-74-87-114,,,113-210-94-215,,,51-72-76-130,,,51-72-76-82,,,17-17-17-222,,,128-128-128-113,,,128-128-128-112,,,57-172-250-150,,,68-68-68-232,,,98-250-125-255,,,208-69-81-255,,,225-76-88-255,,,31-180-108-255,,,29-177-111-255,,,246-81-95-150" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.8407738" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.7659138" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="DART_CHECK_SDK_UPDATE_KEY" value="DoNotCheck" />
+    <property name="DBE.Default.Dialect" value="MySQL" />
+    <property name="Darcula.SavedEditorTheme" value="_@user_Dracula" />
+    <property name="Darcula.savedEditorTheme" value="_@user_Material Oceanic" />
+    <property name="Default.SavedEditorTheme" value="_@user_Default" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="ExternalToolDialog.advanced.expanded" value="true" />
+    <property name="FLUTTER_SDK_KNOWN_PATHS" value="C:/_ENV/flutter" />
+    <property name="FileColorsForProjectViewEnabled" value="true" />
+    <property name="FileColorsForTabsEnabled" value="true" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.13477089" />
+    <property name="FrameworksFinderRecursivePanel[1]" value="0.15686275" />
+    <property name="FrameworksFinderRecursivePanel[2]" value="0.18621974" />
+    <property name="FrameworksFinderRecursivePanel[3]" value="0.22909507" />
+    <property name="INSPECTION_FILTER_HISTORY" value="duplicated&#10;seria&#10;spring core" />
+    <property name="InstalledPluginsSearchHistory" value="hot&#10;dar&#10;mater" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="JavaeeViewModulesPanel[0]" value="0.1356852" />
+    <property name="JavaeeViewModulesPanel[1]" value="0.15710919" />
+    <property name="KEYMAP" value="execute" />
+    <property name="LAST_INJECTED_LANGUAGE" value="Angular2HTML" />
+    <property name="LayoutCode.codeCleanup" value="true" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="LayoutCode.rearrangeEntries" value="true" />
+    <property name="LayoutCode.rearrangeEntries&lt;Generic SQL&gt;" value="false" />
+    <property name="LayoutCode.rearrangeEntriesAngular HTML Template" value="true" />
+    <property name="LayoutCode.rearrangeEntriesDart" value="false" />
+    <property name="LayoutCode.rearrangeEntriesHTML" value="true" />
+    <property name="LayoutCode.rearrangeEntriesJSON" value="false" />
+    <property name="LayoutCode.rearrangeEntriesJava" value="true" />
+    <property name="LayoutCode.rearrangeEntriesMySQL" value="false" />
+    <property name="LayoutCode.rearrangeEntriesSCSS" value="true" />
+    <property name="LayoutCode.rearrangeEntriesTypeScript" value="true" />
+    <property name="LayoutCode.rearrangeEntriesXML" value="true" />
+    <property name="LiveContextsPanel[0]" value="0.10781671" />
+    <property name="LiveContextsPanel[1]" value="0.1283697" />
+    <property name="MTBoldTabs" value="false" />
+    <property name="MTBorderPopup" value="true" />
+    <property name="MTTabsHeight" value="25" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="PLUGIN_FILTER" value="lomb&#10;jrxml&#10;jasper&#10;jrebel&#10;jreb" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="ProtractorJavaScriptTestRunnerSupport.hideIgnoredTests" value="true" />
+    <property name="ProtractorJavaScriptTestRunnerSupport.hidePassedTests" value="false" />
+    <property name="ProtractorJavaScriptTestRunnerSupport.scrollToSource" value="true" />
+    <property name="ProtractorJavaScriptTestRunnerSupport.selectFirtsDefect" value="true" />
+    <property name="RegistryRecentKeys" value="compiler.automake.allow.when.app.running" />
+    <property name="SearchEveryWhereHistory" value="_c&#10;JDK&#10;M&#10;rea&#10;Ti" />
+    <property name="SettingsSearchHistory" value="repos&#10;style&#10;java&#10;build&#10;html" />
+    <property name="SpringBeansModulesPanel[0]" value="0.1572327" />
+    <property name="SpringBeansModulesPanel[1]" value="0.21078037" />
+    <property name="SpringBeansModulesPanel[2]" value="0.19212297" />
+    <property name="SpringBeansModulesPanel[3]" value="0.2528445" />
+    <property name="SpringMvcModulesPanel[0]" value="0.12285012" />
+    <property name="SpringMvcModulesPanel[1]" value="0.15479876" />
+    <property name="SpringMvcModulesPanel[2]" value="0.18331806" />
+    <property name="SpringRepositoriesModulesPanel[0]" value="0.12285012" />
+    <property name="SpringRepositoriesModulesPanel[1]" value="0.15479876" />
+    <property name="SqlStructureView.filterD.file.structure.state" value="true" />
+    <property name="TrendingPluginsSearchHistory" value="hotswa&#10;pretti&#10;flutt&#10;sortBy:downloads" />
+    <property name="android-component-compatibility-check" value="1533170757362" />
+    <property name="annotate.short.names.type" value="full" />
+    <property name="com.chrisrm.idea.MaterialThemeUI.theme" value="ONE_DARK" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Paths" />
+    <property name="com.intellij.openapi.vcs.actions.ShowMessageHistoryAction$1.splitter" value="0.76884425" />
+    <property name="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2.splitter" value="0.38244197" />
+    <property name="create.project.preferred.importer" value="Maven" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="delete.locally.added.files" value="true" />
+    <property name="disable.forced.soft.wraps.notification" value="true" />
+    <property name="es6.show.auto.import" value="true" />
+    <property name="evlsprt3.181" value="12" />
+    <property name="evlsprt3.183" value="12" />
+    <property name="export.settings.path" value="C:\Users\Mohd Mazlan\Desktop\settings.jar" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Desktop/Project.xml&#10;C:/Users/Mohd Mazlan/Desktop&#10;C:/Program Files/Java/jdk1.8.0_25&#10;C:/Users/Mohd Mazlan/Downloads/hotswap-agent-1.3.0.jar&#10;C:/Users/Mohd Mazlan/.IntelliJIdea2018.2/config/plugins/hotswap-agent-intellij-plugin/lib/agent/hotswap-agent-1.3.0.jar&#10;C:/Users/Mohd Mazlan/.IntelliJIdea2018.2/config/plugins/hotswap-agent-intellij-plugin/lib/DCEVM-light-8u112-installer_cutted.jar&#10;C:/_ENV/flutter&#10;C:/Users/Mohd Mazlan/Desktop/flutter_app&#10;C:/Users/Mohd Mazlan/Desktop/Flutter&#10;C:/_ENV/flutter/bin&#10;C:/Users/Mohd Mazlan/AppData/Roaming/Subversion&#10;C:/_PROJECTS/fssm-parent-2/fssm-web/src/main/ngapp/src&#10;C:/Users/Mohd Mazlan/Desktop/poslajutrackingv2&#10;C:/Users/Mohd Mazlan/Desktop/ion-meetups&#10;D:/Playstore/5. GDEX Tracking/gdextracking&#10;D:/Playstore/3. Pos Laju/PosLajuTracking&#10;C:/_PROJECTS/fssm-parent-2/fssm-web/src/main/ngapp/tslint.json&#10;C:/_ENV/OpenJDK8/jdk8u172-b11&#10;C:/Users/Mohd Mazlan/Downloads/sprm ui.png&#10;C:/Users/Mohd Mazlan/Desktop/gdex/GDEX_1.00.012_source_from_JADX/GDEX_1.00.012_source_from_JADX&#10;D:/Playstore/5. GDEX Tracking/Gdex&#10;C:/Users/Mohd Mazlan/Desktop/Material_Theme-2.8.3.zip&#10;D:/IMAGE/3840x2160.jpg&#10;C:/_PROJECTS/fssm-parent-2&#10;C:/_ENV/maven/apache-maven-3.5.4&#10;D:/_ENV/maven/apache-maven-3.5.4&#10;D:/Google Drive/Playstore/3. Pos Laju/PosLajuTracking&#10;D:/_ENV/maven/apache-maven-3.5.2&#10;D:/_PROJECTS/fssm-parent-2" />
+    <property name="file.colors.enable.non.project" value="Theme" />
+    <property name="file.gist.reindex.count" value="285753" />
+    <property name="fileTypeChangedCounter" value="36" />
+    <property name="find.popup.splitter" value="0.650165" />
+    <property name="installed.kotlin.plugin.version" value="1.3.11-release-IJ2018.3-1" />
+    <property name="io.flutter.analytics.clientId" value="cdc1037d-dfe8-483d-af59-1e7a61e94d16" />
+    <property name="io.flutter.analytics.toastShown" value="true" />
+    <property name="io.flutter.formatCodeOnSave" value="true" />
+    <property name="io.flutter.organizeImportsOnSave" value="true" />
+    <property name="io.flutter.showPreviewArea" value="true" />
+    <property name="io.flutter.useLogView" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="js.chrome.debugger.port.98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" value="58023" />
+    <property name="js.rename.search.for.text.occurrences" value="false" />
+    <property name="js.rename.search.in.comments" value="true" />
+    <property name="last.imported.location" value="C:/_PROJECTS/fssm-parent-2" />
+    <property name="lastTip" value="1" />
+    <property name="move.changes.current.only" value="true" />
+    <property name="mt.showStatisticsAgreement" value="true" />
+    <property name="org.intellij.images.editor.actions.BackgroundImageDialog#recent" value="D:\IMAGE\3840x2160.jpg&#10;https://raw.githubusercontent.com/ChrisRM/material-theme-jetbrains/master/src/main/resources/themes/wall.jpg" />
+    <property name="param.hints.settings.last.edited.language" value="TypeScript" />
+    <property name="plugins.preselection.path" value="$USER_HOME$/Desktop" />
+    <property name="project.wizard.group" value="JAVA_MODULE_io.flutter.module.FlutterModuleBuilder" />
+    <property name="project.wizard.template" value="Flutter" />
+    <property name="selected.color.option.type" value="HTML_ATTRIBUTE_NAME" />
+    <property name="settings.code.style.selected.tab.HTML" value="Arrangement" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Spaces" />
+    <property name="settings.code.style.selected.tab.JavaScript" value="Wrapping and Braces" />
+    <property name="settings.code.style.selected.tab.SQL" value="Blank Lines" />
+    <property name="settings.code.style.selected.tab.TypeScript" value="Wrapping and Braces" />
+    <property name="show.vcs.annotation.aspect.Original revision" value="false" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+    <property name="typescript.show.auto.import" value="true" />
+    <property name="vcs.log.details.splitter.proportion" value="0.6525573" />
+  </component>
+</application>
