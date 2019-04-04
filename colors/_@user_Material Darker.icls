@@ -4,18 +4,13 @@
     <property name="created">2019-02-05T09:59:42</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.2.7.0.0</property>
-    <property name="modified">2019-02-11T09:32:54</property>
+    <property name="modified">2019-04-04T16:43:36</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.4" />
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </font>
+  <option name="LINE_SPACING" value="1.8" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="Fira Code Medium" />
+  <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_LINE_SPACING" value="1.6" />
   <colors>
@@ -1387,12 +1382,10 @@
     <option name="KOTLIN_DYNAMIC_PROPERTY_CALL">
       <value />
     </option>
-    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
-      <value>
-        <option name="FOREGROUND" value="89ddff" />
-      </value>
-    </option>
     <option name="KOTLIN_IMPLICIT_EXHAUSTIVE_WHEN">
+      <value />
+    </option>
+    <option name="KOTLIN_LABEL">
       <value />
     </option>
     <option name="KOTLIN_NAMED_ARGUMENT">
@@ -3322,7 +3315,6 @@
         <option name="FOREGROUND" value="c3e88d" />
       </value>
     </option>
-    <option name="SASS_COMMENT" baseAttributes="CSS.COMMENT" />
     <option name="SASS_MIXIN">
       <value>
         <option name="FOREGROUND" value="82aaff" />

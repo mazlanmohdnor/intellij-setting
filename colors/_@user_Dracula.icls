@@ -4,12 +4,15 @@
     <property name="created">2019-02-05T09:59:42</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.2.7.0.0</property>
-    <property name="modified">2019-02-11T09:32:54</property>
+    <property name="modified">2019-04-04T16:48:29</property>
     <property name="originalScheme">Dracula</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.5" />
+  <option name="LINE_SPACING" value="1.8" />
   <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Menlo" />
+  <option name="EDITOR_FONT_NAME" value="Fira Code Medium" />
+  <option name="EDITOR_LIGATURES" value="true" />
+  <option name="CONSOLE_FONT_NAME" value="Fira Code Medium" />
+  <option name="CONSOLE_LIGATURES" value="true" />
   <colors>
     <option name="CARET_COLOR" value="cccccc" />
     <option name="CARET_ROW_COLOR" value="44475a" />
@@ -190,8 +193,6 @@
         <option name="FOREGROUND" value="50fa7b" />
       </value>
     </option>
-    <option name="CSS.IMPORTANT" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="CSS.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
     <option name="CSS.PROPERTY_NAME">
       <value>
         <option name="FOREGROUND" value="8be9fd" />
@@ -929,7 +930,6 @@
         <option name="FOREGROUND" value="bd93f9" />
       </value>
     </option>
-    <option name="SASS_COMMENT" baseAttributes="CSS.COMMENT" />
     <option name="SASS_IDENTIFIER">
       <value />
     </option>
@@ -938,7 +938,6 @@
         <option name="FOREGROUND" value="50fa7b" />
       </value>
     </option>
-    <option name="SASS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="666b87" />

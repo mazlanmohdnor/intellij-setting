@@ -4,19 +4,21 @@
     <property name="created">2019-02-05T09:59:42</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.2.7.0.0</property>
-    <property name="modified">2019-02-11T09:32:54</property>
+    <property name="modified">2019-04-04T16:41:37</property>
     <property name="originalScheme">Monokai Pro</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.4" />
+  <option name="LINE_SPACING" value="1.8" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Bitstream Vera Sans Mono" />
+    <option name="EDITOR_FONT_NAME" value="Fira Code Retina" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
+  <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="a9dc76" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
@@ -462,8 +464,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="CSS.IMPORTANT" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="CSS.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
     <option name="CSS.PROPERTY_NAME">
       <value>
         <option name="FOREGROUND" value="fcfcfa" />
@@ -480,7 +480,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="CSS.TAG_NAME" baseAttributes="HTML_TAG_NAME" />
     <option name="CSS.URL">
       <value>
         <option name="FOREGROUND" value="ab9df2" />
@@ -1144,6 +1143,9 @@
       </value>
     </option>
     <option name="KOTLIN_IMPLICIT_EXHAUSTIVE_WHEN">
+      <value />
+    </option>
+    <option name="KOTLIN_LABEL">
       <value />
     </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">
@@ -2654,7 +2656,6 @@
         <option name="FOREGROUND" value="a9dc76" />
       </value>
     </option>
-    <option name="SASS_COMMENT" baseAttributes="CSS.COMMENT" />
     <option name="SASS_MIXIN">
       <value>
         <option name="FOREGROUND" value="a9dc76" />
