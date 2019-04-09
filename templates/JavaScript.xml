@@ -13,4 +13,10 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="if" value="if ($END$){&#10;    &#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
