@@ -19,4 +19,11 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="todo" value="// TODO: $date$ - $END$" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
