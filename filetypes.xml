@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="ts'" type="PLAIN_TEXT" />
       <mapping ext="jasper" type="PLAIN_TEXT" />
+      <removed_mapping pattern="txn_analyst_application" approved="true" type="SQL" />
       <removed_mapping pattern="ref_degree_level.sql" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
