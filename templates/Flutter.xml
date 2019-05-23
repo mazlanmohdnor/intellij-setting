@@ -1,5 +1,5 @@
 <templateSet group="Flutter">
-  <template name="mat" value="import 'package:flutter/material.dart';" toReformat="false" toShortenFQNames="true">
+  <template name="mat" value="import 'package:flutter/material.dart';" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="DART" value="true" />
     </context>
