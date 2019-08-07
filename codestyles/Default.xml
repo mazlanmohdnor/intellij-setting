@@ -14,7 +14,6 @@
     <option name="IMPORT_PREFER_ABSOLUTE_PATH" value="TRUE" />
   </TypeScriptCodeStyleSettings>
   <codeStyleSettings language="TypeScript">
-    <option name="ELSE_ON_NEW_LINE" value="true" />
     <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
     <option name="METHOD_CALL_CHAIN_WRAP" value="1" />
     <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
