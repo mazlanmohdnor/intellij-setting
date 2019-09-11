@@ -4,7 +4,7 @@
     <property name="created">2019-02-05T09:59:42</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.2.7.0.0</property>
-    <property name="modified">2019-02-11T09:32:54</property>
+    <property name="modified">2019-09-11T14:34:47</property>
     <property name="originalScheme">Atom One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -17,7 +17,7 @@
     <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_FONT_NAME" value="Consolas" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="98c379" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
@@ -28,26 +28,12 @@
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="1b262b" />
     <option name="DOCUMENTATION_COLOR" value="282c34" />
-    <option name="FILESTATUS_ADDED" value="73c990" />
-    <option name="FILESTATUS_COPIED" value="73c990" />
-    <option name="FILESTATUS_DELETED" value="59626f" />
-    <option name="FILESTATUS_HIJACKED" value="c679dd" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="59626f" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="9da5b4" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="ff6347" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="ff6347" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="ff6347" />
-    <option name="FILESTATUS_MERGED" value="61aeef" />
-    <option name="FILESTATUS_MODIFIED" value="e2c08d" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="57b6c2" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="57b6c2" />
-    <option name="FILESTATUS_RENAMED" value="c679dd" />
-    <option name="FILESTATUS_SUPPRESSED" value="abb2bf" />
-    <option name="FILESTATUS_SWITCHED" value="61aeef" />
-    <option name="FILESTATUS_UNKNOWN" value="f77669" />
-    <option name="FILESTATUS_addedOutside" value="98c379" />
-    <option name="FILESTATUS_changelistConflict" value="ff6347" />
-    <option name="FILESTATUS_modifiedOutside" value="e5c17c" />
+    <option name="FILESTATUS_HIJACKED" value="" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="7fdbca" />
+    <option name="FILESTATUS_SUPPRESSED" value="" />
+    <option name="FILESTATUS_SWITCHED" value="" />
     <option name="GUTTER_BACKGROUND" value="282c34" />
     <option name="INDENT_GUIDE" value="37474f" />
     <option name="INFORMATION_HINT" value="282c34" />
@@ -1388,12 +1374,6 @@
     <option name="KOTLIN_DYNAMIC_PROPERTY_CALL">
       <value>
         <option name="FOREGROUND" value="f07178" />
-      </value>
-    </option>
-    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
-      <value>
-        <option name="FOREGROUND" value="a6b2c0" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="KOTLIN_IMPLICIT_EXHAUSTIVE_WHEN">
