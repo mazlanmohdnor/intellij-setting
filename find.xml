@@ -8,7 +8,7 @@
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
-    <mask>*.ts</mask>
     <mask>*.html</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
