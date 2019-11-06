@@ -5,6 +5,7 @@
     <option name="compactSidebar" value="true" />
     <option name="darkTitleBar" value="true" />
     <option name="highlightColorEnabled" value="true" />
+    <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="isHighContrast" value="true" />
