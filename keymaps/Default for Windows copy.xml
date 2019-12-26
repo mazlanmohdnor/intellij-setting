@@ -10,6 +10,10 @@
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
+  <action id="CopyReference" />
+  <action id="CopyReferencePopup">
+    <keyboard-shortcut first-keystroke="shift ctrl alt c" />
+  </action>
   <action id="ToggleBookmark" />
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="f11" />
