@@ -1,0 +1,7 @@
+<application>
+  <component name="UUIDGeneratorPopupSettings">
+    <option name="lowerCased" value="false" />
+    <option name="numberFieldValue" value="5" />
+    <option name="withDashes" value="false" />
+  </component>
+</application>
