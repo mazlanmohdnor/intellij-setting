@@ -18,4 +18,11 @@
     <entry key="ide.tree.ui.experimental" value="false" />
     <entry key="compiler.automake.allow.when.app.running" value="true" />
   </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="Memory" value="true" />
+      </map>
+    </option>
+  </component>
 </application>
